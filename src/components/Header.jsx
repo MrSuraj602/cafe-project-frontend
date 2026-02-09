@@ -6,7 +6,7 @@ export default function Header() {
     <header className="header">
       <div className="header-content">
         <div className="header-title">
-          <h1 className="cafe-title">PassTime Cafe</h1>
+          <h1 className="cafe-title">The Appa's Cafe</h1>
           <p className="subtitle">Good Food, Takes Time</p>
         </div>
       </div>
