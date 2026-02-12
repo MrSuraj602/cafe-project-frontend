@@ -13,6 +13,7 @@ export default function Footer() {
         ⭐ Rate Us & Add Photos Online
       </a>
          <p>&copy; 2026 The Appa's Café. All rights reserved.</p>
+      <br /><br />
     </footer>
   )
 }
